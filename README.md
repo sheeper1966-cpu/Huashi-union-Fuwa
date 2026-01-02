@@ -164,7 +164,7 @@
         <div class="container">
             <h2 class="section-title text-primary mb-4">联系我们</h2>
             <div class="text-center lead">
-                <p>邮箱：459761750@qq.com 或 Sheeper1966@gmail.com</p>
+                <p>微信群</p>
                 <p class="mt-3">地址：河南省濮阳市清丰县 华中师范大学附属清丰高级中学</p>
             </div>
         </div>
